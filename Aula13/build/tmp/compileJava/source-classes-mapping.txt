@@ -1,0 +1,16 @@
+Aula13/filosofo.java
+ Aula13.filosofo
+Aula13/garfo.java
+ Aula13.garfo
+Aula13/t4.java
+ Aula13.t4
+Aula13/t1.java
+ Aula13.t1
+Aula13/t2.java
+ Aula13.t2
+Aula13/t5.java
+ Aula13.t5
+Aula13/t3.java
+ Aula13.t3
+Aula13/Main.java
+ Aula13.Main
